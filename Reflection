@@ -13,5 +13,5 @@ scraping.)
   Once I had a set goal, the rest was fairly easy. I did want to make it so the program would check for specified favorites 
 available on any given day, and then email said favorites to you as a sort of notification, but I ran into a bug and I ran 
 out of time before I could fix it. So instead I settled on having it print available favorites to the screen. I really do 
-wish I could’ve gotten the email part working, though; that would’ve been a cool addition. I might come back to it later 
-just for fun.
+wish I could’ve gotten the email part working, though; that would’ve been a cool addition. The whole thing seems a little basic
+without it, but I can always come back later, on my own time. At the very least, it's a place to start.
