@@ -1,0 +1,17 @@
+Assignment 2 Reflection:
+
+	The main problem I had with this project, right off the bat, was that I didn’t know what I wanted to do with it. I couldn’t 
+think of anything in particular I wanted to automate, and web scraping seemed cool, but once again I couldn’t decide on a way
+to use it. One of my group members, Shay, made an effort to help me come with an idea, which led to my first attempt: 
+scraping data off of amazon on different books/movies in a series and then comparing them in terms of popularity. 
+	The problem there, though, was that the way I originally wanted to go about it got too complicated for me execute in the 
+time I had. So, in the end, I decided to scrap it and move on. At that point I figured why not just do the base requirements, 
+and started working on that. It was some time around then, while I was reading through some documentation, that inspiration 
+finally struck. There was something I could automate that actually felt useful to me, personally, that something being my 
+semi-daily check of the school’s cafeteria menu. (And, as a bonus, it gave me a chance to practice with a little bit of web 
+scraping.)
+  Once I had a set goal, the rest was fairly easy. I did want to make it so the program would check for specified favorites 
+available on any given day, and then email said favorites to you as a sort of notification, but I ran into a bug and I ran 
+out of time before I could fix it. So instead I settled on having it print available favorites to the screen. I really do 
+wish I could’ve gotten the email part working, though; that would’ve been a cool addition. I might come back to it later 
+just for fun.
